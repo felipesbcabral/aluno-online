@@ -1,0 +1,1 @@
+Tela de faltas não tem rota criada, poderia criar a rota para conseguirmos visualizar a página
